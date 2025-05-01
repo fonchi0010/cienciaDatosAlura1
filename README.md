@@ -8,7 +8,7 @@
   🎱 Python para Data Science: primeros pasos.
   🎱 Python para Data Science: trabajar con funciones, estructuras de datos y excepciones.
 
-✏️ Es evidente que en el transcurso de lo propuesto se aprendio a usar de manera más profunda la librería mathplotlib encargada de los gráficos. 
+✏️ Es evidente que en el transcurso de lo propuesto se aprendio a usar de manera más profunda la librería matplotlib encargada de los gráficos. 
 
 ✏️ Preguntas Propuestas y Obtención de la data.
   En el ejercicio el estudiante deberá ser capaz de responder a las siguientes preguntas para obtener la data necesaria y completar el análisis y en consecuencia responder la interrogante   de Don Juan
